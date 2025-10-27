@@ -3,7 +3,9 @@ weight: 1
 bookToc: true
 date: 2025-02-25T18:21:00
 draft: false
-tags: ["Java"]
+tags:
+  - Java
+title: IO流
 ---
 #### 1. 字节流（以字节为单位）
 ```java

@@ -1,36 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Spring微服务实战",
-      "path": "docs/信息技术/架构设计/Spring微服务实战.md"
+      "basename": "异常",
+      "path": "docs/01-信息技术/01-编程语言/01-Java/异常.md"
     },
     {
-      "basename": "IO流",
-      "path": "docs/信息技术/Java/IO流.md"
+      "basename": "io流",
+      "path": "docs/01-信息技术/01-编程语言/01-Java/io流.md"
+    },
+    {
+      "basename": "_index",
+      "path": "docs/01-信息技术/01-编程语言/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "docs/01-信息技术/01-编程语言/01-Java/_index.md"
+    },
+    {
+      "basename": "quotes",
+      "path": "quotes.md"
+    },
+    {
+      "basename": "_index",
+      "path": "docs/99-其他/_index.md"
+    },
+    {
+      "basename": "注册claude.ai并开通pro会员",
+      "path": "docs/99-其他/01-工具/注册claude.ai并开通pro会员.md"
+    },
+    {
+      "basename": "_index",
+      "path": "docs/99-其他/01-工具/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "docs/02-心理学/02-人际关系与沟通/_index.md"
+    },
+    {
+      "basename": "被讨厌的勇气",
+      "path": "docs/02-心理学/01-认知心理学/被讨厌的勇气.md"
+    },
+    {
+      "basename": "_index",
+      "path": "docs/02-心理学/01-认知心理学/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "docs/02-心理学/_index.md"
+    },
+    {
+      "basename": "spring微服务实战",
+      "path": "docs/01-信息技术/02-架构设计/spring微服务实战.md"
+    },
+    {
+      "basename": "_index",
+      "path": "docs/01-信息技术/02-架构设计/_index.md"
     },
     {
       "basename": "_index",
       "path": "_index.md"
     },
     {
-      "basename": "注册 Claude.ai 并开通 Pro 会员",
-      "path": "docs/其他/工具/注册 Claude.ai 并开通 Pro 会员.md"
+      "basename": "非暴力沟通",
+      "path": "docs/02-心理学/02-人际关系与沟通/非暴力沟通.md"
     },
     {
       "basename": "_index",
-      "path": "docs/其他/工具/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "docs/其他/_index.md"
-    },
-    {
-      "basename": "被讨厌的勇气",
-      "path": "docs/心理学/认知心理学/被讨厌的勇气.md"
-    },
-    {
-      "basename": "_index",
-      "path": "docs/心理学/_index.md"
+      "path": "docs/01-信息技术/_index.md"
     },
     {
       "basename": "待办总览",
@@ -163,42 +199,6 @@
     {
       "basename": "2025-08-27",
       "path": "01-生活/01-日记/2025-08-27.md"
-    },
-    {
-      "basename": "2024-11-28",
-      "path": "01-生活/01-日记/2024-11-28.md"
-    },
-    {
-      "basename": "2025-09-16",
-      "path": "01-生活/01-日记/2025-09-16.md"
-    },
-    {
-      "basename": "onThisDay",
-      "path": "04-资源库/08-脚本/onThisDay.md"
-    },
-    {
-      "basename": "2025-06-26",
-      "path": "01-生活/01-日记/2025-06-26.md"
-    },
-    {
-      "basename": "2025-06-09",
-      "path": "01-生活/01-日记/2025-06-09.md"
-    },
-    {
-      "basename": "2025-05-06",
-      "path": "01-生活/01-日记/2025-05-06.md"
-    },
-    {
-      "basename": "2025-04-19",
-      "path": "01-生活/01-日记/2025-04-19.md"
-    },
-    {
-      "basename": "2025-07-02",
-      "path": "01-生活/01-日记/2025-07-02.md"
-    },
-    {
-      "basename": "2025-07-22",
-      "path": "01-生活/01-日记/2025-07-22.md"
     }
   ],
   "omittedPaths": [],

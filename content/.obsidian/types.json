@@ -47,6 +47,7 @@
     "TQ_show_urgency": "checkbox",
     "review_date": "date",
     "decision_date": "date",
-    "excalidraw-embed-md": "checkbox"
+    "excalidraw-embed-md": "checkbox",
+    "bookFlatSection": "checkbox"
   }
 }

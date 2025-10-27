@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "07958c3bd98f7c81",
+        "id": "be2618624ed26f51",
         "type": "tabs",
         "children": [
           {
-            "id": "42b49b3df8359cf8",
+            "id": "9f122553b984be82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/信息技术/架构设计/Spring微服务实战.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Spring微服务实战"
+              "title": "新标签页"
             }
           }
         ]
@@ -186,8 +182,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -217,27 +213,38 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:创建新数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "42b49b3df8359cf8",
+  "active": "5abaabb7d8f0df7f",
   "lastOpenFiles": [
-    "docs/信息技术/Java/IO流.md",
+    "docs/01-信息技术/01-编程语言/01-Java/io流.md",
+    "docs/01-信息技术/01-编程语言/_index.md",
+    "docs/01-信息技术/01-编程语言/01-Java/_index.md",
+    "quotes.md",
+    "docs/99-其他/_index.md",
+    "docs/99-其他/01-工具/注册claude.ai并开通pro会员.md",
+    "docs/99-其他/01-工具/_index.md",
+    "docs/02-心理学/02-人际关系与沟通/_index.md",
+    "docs/02-心理学/01-认知心理学/被讨厌的勇气.md",
+    "docs/02-心理学/01-认知心理学/_index.md",
+    "docs/02-心理学/_index.md",
+    "docs/01-信息技术/02-架构设计/spring微服务实战.md",
+    "docs/01-信息技术/02-架构设计/_index.md",
+    "docs/01-信息技术/01-编程语言/01-Java/异常.md",
     "_index.md",
-    "docs/其他/工具/注册 Claude.ai 并开通 Pro 会员.md",
-    "docs/其他/工具/_index.md",
-    "docs/其他/_index.md",
-    "docs/心理学/认知心理学/被讨厌的勇气.md",
-    "docs/心理学/_index.md",
+    "docs/02-心理学/02-人际关系与沟通/非暴力沟通.md",
+    "docs/01-信息技术/_index.md",
+    "docs/01-信息技术/01-编程语言",
     "00-MOC/01-待办事项/待办总览.md",
     "01-生活/01-日记/2025-08-04.md",
     "03-工作/02-管理/团队待办总览.md",
@@ -247,16 +254,6 @@
     "02-学习/05-工具/Hugo.md",
     "02-学习/01-信息技术/07-操作系统/Linux 常用命令.md",
     "00-MOC/01-待办事项/lingux.md",
-    "00-MOC/01-待办事项/工作待办.md",
-    "00-MOC/01-待办事项/生活待办.md",
-    "03-工作/02-管理/团队待办.md",
-    "00-MOC/知识体系.md",
-    "01-生活/03-个人管理/日常护肤方案.md",
-    "02-学习/02-阅读信息/02-收藏文章/张一鸣：Stay hungry, Stay young.md",
-    "02-学习/02-阅读信息/01-书籍信息/06-方法论/软技能（第2版）.md",
-    "02-学习/01-信息技术/12-个人信息/账号信息.md",
-    "02-学习/00-个人成长/格言语录.md",
-    "02-学习/03-AIGC与AI应用/02-提示工程/书籍解读-通用.md",
     "未命名.base",
     "04-资源库/03-白板/北极星.canvas",
     "02-学习/02-阅读信息/01-书籍信息/05-心理学/娱乐至死.md.tmp.26248.1761296624237",
@@ -267,7 +264,6 @@
     "02-学习/02-阅读信息/01-书籍信息/04-历史/浪潮之巅(第四版).md.tmp.26248.1761296494599",
     "02-学习/02-阅读信息/01-书籍信息/04-历史/失控.md.tmp.26248.1761296476034",
     "02-学习/02-阅读信息/01-书籍信息/01-信息技术/从0到1.md.tmp.26248.1761296457392",
-    "book_reclassification_suggestions.md.tmp.26248.1761296329758",
     "04-资源库/00-附件/微信图片_20250407143647.png",
     "04-资源库/00-附件/微信图片_20250407143642.png",
     "04-资源库/00-附件/微信图片_20250407143645.png",
