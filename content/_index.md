@@ -31,4 +31,4 @@ type: docs
 ---
 
 ## 联系方式
-**Email**: [stellar.net.cn@gmail.com](mailto:stellar.net.cn@gmail.com)
+**Email**: [contact@logosblog.com](mailto:contact@logosblog.com)
