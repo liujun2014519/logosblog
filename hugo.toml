@@ -1,0 +1,4 @@
+baseURL = 'http://stellar.net.cn/'
+languageCode = 'zh-cn'
+title = '𝓛𝓸𝓰𝓸𝓼'
+theme = 'hugo-book'

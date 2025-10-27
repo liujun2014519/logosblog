@@ -1,0 +1,9 @@
+<div class="tags-container">
+    <ul class="tag-list">
+        {{ range $tag, $pages := .Site.Taxonomies.tags }}
+            <li>
+                <a href="{{ "/tags/" | relURL }}{{ $tag | urlize }}">#{{ $tag }}</a> ({{ len $pages }})
+            </li>
+        {{ end }}
+    </ul>
+</div>

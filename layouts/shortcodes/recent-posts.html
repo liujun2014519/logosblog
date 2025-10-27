@@ -1,0 +1,13 @@
+<ul>
+{{ range first (.Get "limit") (sort .Site.RegularPages "Date" "desc") }}
+    {{ $title := .Title }}
+    {{ if eq $title "" }} 
+		<!-- 当标题为空时，使用文件名 -->
+        {{ $title = .File.BaseFileName }} 
+    {{ end }}
+    <li>
+        <a href="{{ .RelPermalink }}">{{ $title }}</a> 
+        <span style="color:gray;font-size:0.9em;">({{ .Date.Format "2006-01-02" }})</span>
+    </li>
+{{ end }}
+</ul>

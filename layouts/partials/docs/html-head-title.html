@@ -1,0 +1,11 @@
+{{ $pageTitle := .Page.Title }}
+{{ if eq $pageTitle "" }}
+    {{ $pageTitle = .File.BaseFileName }}  <!-- 如果 title 为空，使用文件名 -->
+{{ end }}
+
+
+{{ if eq $pageTitle "Home" }}
+    {{ .Site.Title }}
+{{ else }}
+    {{ $pageTitle }} | {{ .Site.Title }}
+{{ end }}

@@ -1,0 +1,8 @@
+{{ range first 1 (where .Site.RegularPages "Section" "docs") }}
+    {{ $title := .Title }}
+    {{ if eq $title "" }} 
+        {{ $title = .File.BaseFileName }}
+    {{ end }}
+    <p>主题：<a href="{{ .RelPermalink }}">{{ $title }}</a></p>
+    <p>发布时间：{{ .Date.Format "2006-01-02 15:04" }}</p>
+{{ end }}
