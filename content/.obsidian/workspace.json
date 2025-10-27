@@ -11,10 +11,14 @@
             "id": "42b49b3df8359cf8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/信息技术/架构设计/Spring微服务实战.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Spring微服务实战"
             }
           }
         ]
@@ -159,12 +163,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC/待办总览.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "待办总览 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -214,7 +217,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
@@ -227,8 +229,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5abaabb7d8f0df7f",
+  "active": "42b49b3df8359cf8",
   "lastOpenFiles": [
+    "docs/信息技术/Java/IO流.md",
+    "_index.md",
     "docs/其他/工具/注册 Claude.ai 并开通 Pro 会员.md",
     "docs/其他/工具/_index.md",
     "docs/其他/_index.md",
@@ -253,8 +257,6 @@
     "02-学习/01-信息技术/12-个人信息/账号信息.md",
     "02-学习/00-个人成长/格言语录.md",
     "02-学习/03-AIGC与AI应用/02-提示工程/书籍解读-通用.md",
-    "02-学习/03-AIGC与AI应用/02-提示工程/书籍解答-管理类.md",
-    "00-MOC/01-待办事项/学习待办.md",
     "未命名.base",
     "04-资源库/03-白板/北极星.canvas",
     "02-学习/02-阅读信息/01-书籍信息/05-心理学/娱乐至死.md.tmp.26248.1761296624237",

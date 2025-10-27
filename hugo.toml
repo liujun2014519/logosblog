@@ -1,4 +1,30 @@
-baseURL = 'http://stellar.net.cn/'
+baseURL = 'https://logosblog.com/'
 languageCode = 'zh-cn'
 title = '𝓛𝓸𝓰𝓸𝓼'
 theme = 'hugo-book'
+
+# 启用 Emoji
+enableEmoji = true
+
+
+# Hugo-Book 主题配置
+[params]
+  # 主题颜色：light, dark, auto
+  BookTheme = "light"
+  
+  #右侧目录
+  BookToC = true
+
+
+# Markdown 配置
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+	  # 允许 HTML
+      unsafe = true  
+  
+  [markup.highlight]
+	# 代码高亮主题,可选：monokai, dracula, github, vim 等
+    style = "monokai"  
+	# 显示代码行号
+    lineNos = true

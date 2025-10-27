@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Spring微服务实战",
+      "path": "docs/信息技术/架构设计/Spring微服务实战.md"
+    },
+    {
+      "basename": "IO流",
+      "path": "docs/信息技术/Java/IO流.md"
+    },
+    {
+      "basename": "_index",
+      "path": "_index.md"
+    },
+    {
       "basename": "注册 Claude.ai 并开通 Pro 会员",
       "path": "docs/其他/工具/注册 Claude.ai 并开通 Pro 会员.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2025-07-22",
       "path": "01-生活/01-日记/2025-07-22.md"
-    },
-    {
-      "basename": "2025-06-12",
-      "path": "01-生活/01-日记/2025-06-12.md"
-    },
-    {
-      "basename": "2025-04-29",
-      "path": "01-生活/01-日记/2025-04-29.md"
-    },
-    {
-      "basename": "第二象限（重要不紧急）",
-      "path": "00-MOC/02-四象限概览/第二象限（重要不紧急）.md"
     }
   ],
   "omittedPaths": [],
