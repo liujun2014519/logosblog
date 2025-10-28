@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "AI时代，你的“提问能力”非常重要",
+      "path": "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”非常重要.md"
+    },
+    {
+      "basename": "_index",
+      "path": "_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "docs/03-软技能/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "docs/03-软技能/01-思维方法/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "docs/02-心理学/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "docs/99-其他/_index.md"
+    },
+    {
+      "basename": "被讨厌的勇气",
+      "path": "docs/02-心理学/01-认知心理学/被讨厌的勇气.md"
+    },
+    {
       "basename": "异常",
       "path": "docs/01-信息技术/01-编程语言/01-Java/异常.md"
     },
@@ -21,10 +49,6 @@
       "path": "quotes.md"
     },
     {
-      "basename": "_index",
-      "path": "docs/99-其他/_index.md"
-    },
-    {
       "basename": "注册claude.ai并开通pro会员",
       "path": "docs/99-其他/01-工具/注册claude.ai并开通pro会员.md"
     },
@@ -37,16 +61,8 @@
       "path": "docs/02-心理学/02-人际关系与沟通/_index.md"
     },
     {
-      "basename": "被讨厌的勇气",
-      "path": "docs/02-心理学/01-认知心理学/被讨厌的勇气.md"
-    },
-    {
       "basename": "_index",
       "path": "docs/02-心理学/01-认知心理学/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "docs/02-心理学/_index.md"
     },
     {
       "basename": "spring微服务实战",
@@ -55,10 +71,6 @@
     {
       "basename": "_index",
       "path": "docs/01-信息技术/02-架构设计/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "_index.md"
     },
     {
       "basename": "非暴力沟通",
@@ -187,18 +199,6 @@
     {
       "basename": "2025-04-12",
       "path": "01-生活/01-日记/2025-04-12.md"
-    },
-    {
-      "basename": "2025-04-16",
-      "path": "01-生活/01-日记/2025-04-16.md"
-    },
-    {
-      "basename": "2025-04-22",
-      "path": "01-生活/01-日记/2025-04-22.md"
-    },
-    {
-      "basename": "2025-08-27",
-      "path": "01-生活/01-日记/2025-08-27.md"
     }
   ],
   "omittedPaths": [],

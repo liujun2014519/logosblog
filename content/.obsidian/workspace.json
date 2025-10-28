@@ -11,13 +11,46 @@
             "id": "9f122553b984be82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/02-心理学/_index.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "_index"
+            }
+          },
+          {
+            "id": "29cea7982d0b4fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/02-心理学/_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_index"
+            }
+          },
+          {
+            "id": "0b8c272b80fd4b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”非常重要.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI时代，你的“提问能力”非常重要"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”非常重要.md",
                 "followCursor": false,
                 "showSearch": false,
-                "searchQuery": "",
-                "file": "docs/其他/工具/注册 Claude.ai 并开通 Pro 会员.md"
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "AI时代，你的“提问能力”非常重要 的大纲"
             }
           },
           {
@@ -182,12 +215,11 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5b4138c26a2abcfd",
@@ -227,43 +259,42 @@
   },
   "active": "5abaabb7d8f0df7f",
   "lastOpenFiles": [
+    "_index.md",
+    "docs/03-软技能/_index.md",
+    "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”非常重要.md",
+    "docs/03-软技能/01-思维方法/_index.md",
+    "docs/02-心理学/_index.md",
+    "docs/03-软技能/_index.md.tmp.8712.1761635094747",
+    "docs/03-软技能/AIGC时代如何利用批判性思维进行提问.md",
+    "docs/03-软技能/思维方法/_index.md.tmp.8712.1761634822713",
+    "docs/03-软技能/01-思维方法",
+    "docs/99-其他/_index.md",
+    "docs/03-软技能/AIGC时代如何利用批判性思维进行提问.md.tmp.8712.1761634617199",
+    "docs/03-软技能/_index.md.tmp.8712.1761634615057",
+    "docs/02-心理学/01-认知心理学/被讨厌的勇气.md",
+    "docs/03-软技能/AIGC时代如何利用批判性思维进行提问.md.tmp.8712.1761634393070",
+    "docs/03-软技能/_index.md.tmp.8712.1761634390947",
+    "docs/03-软技能",
+    "CLAUDE.md",
     "docs/01-信息技术/01-编程语言/01-Java/io流.md",
     "docs/01-信息技术/01-编程语言/_index.md",
     "docs/01-信息技术/01-编程语言/01-Java/_index.md",
     "quotes.md",
-    "docs/99-其他/_index.md",
     "docs/99-其他/01-工具/注册claude.ai并开通pro会员.md",
     "docs/99-其他/01-工具/_index.md",
     "docs/02-心理学/02-人际关系与沟通/_index.md",
-    "docs/02-心理学/01-认知心理学/被讨厌的勇气.md",
     "docs/02-心理学/01-认知心理学/_index.md",
-    "docs/02-心理学/_index.md",
     "docs/01-信息技术/02-架构设计/spring微服务实战.md",
     "docs/01-信息技术/02-架构设计/_index.md",
     "docs/01-信息技术/01-编程语言/01-Java/异常.md",
-    "_index.md",
     "docs/02-心理学/02-人际关系与沟通/非暴力沟通.md",
     "docs/01-信息技术/_index.md",
     "docs/01-信息技术/01-编程语言",
     "00-MOC/01-待办事项/待办总览.md",
     "01-生活/01-日记/2025-08-04.md",
     "03-工作/02-管理/团队待办总览.md",
-    "04-资源库/06-Mermaid/生产环境客户问题响应与解决流程图.md",
-    "04-资源库/06-Mermaid/多数据库DDL变更协作流程图.md",
-    "04-资源库/06-Mermaid/大批量数据异步导出流程图.md",
-    "02-学习/05-工具/Hugo.md",
-    "02-学习/01-信息技术/07-操作系统/Linux 常用命令.md",
-    "00-MOC/01-待办事项/lingux.md",
     "未命名.base",
     "04-资源库/03-白板/北极星.canvas",
-    "02-学习/02-阅读信息/01-书籍信息/05-心理学/娱乐至死.md.tmp.26248.1761296624237",
-    "02-学习/02-阅读信息/01-书籍信息/02-小说/千面英雄.md.tmp.26248.1761296604424",
-    "02-学习/02-阅读信息/01-书籍信息/04-历史/芯片简史.md.tmp.26248.1761296586903",
-    "02-学习/02-阅读信息/01-书籍信息/01-信息技术/硅谷百年史.md.tmp.26248.1761296560928",
-    "02-学习/02-阅读信息/01-书籍信息/01-信息技术/硅谷之火.md.tmp.26248.1761296535680",
-    "02-学习/02-阅读信息/01-书籍信息/04-历史/浪潮之巅(第四版).md.tmp.26248.1761296494599",
-    "02-学习/02-阅读信息/01-书籍信息/04-历史/失控.md.tmp.26248.1761296476034",
-    "02-学习/02-阅读信息/01-书籍信息/01-信息技术/从0到1.md.tmp.26248.1761296457392",
     "04-资源库/00-附件/微信图片_20250407143647.png",
     "04-资源库/00-附件/微信图片_20250407143642.png",
     "04-资源库/00-附件/微信图片_20250407143645.png",
