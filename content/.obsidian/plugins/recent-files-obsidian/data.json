@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "claude.ai pro 六折订阅教程",
+      "path": "docs/99-其他/01-工具/claude.ai pro 六折订阅教程.md"
+    },
+    {
+      "basename": "注册claude.ai并开通pro会员",
+      "path": "docs/99-其他/01-工具/注册claude.ai并开通pro会员.md"
+    },
+    {
+      "basename": "异常",
+      "path": "docs/01-信息技术/01-编程语言/01-Java/异常.md"
+    },
+    {
       "basename": "AI时代，你的“提问能力”决定你的上限",
       "path": "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”决定你的上限.md"
     },
@@ -29,10 +41,6 @@
       "path": "docs/02-心理学/01-认知心理学/被讨厌的勇气.md"
     },
     {
-      "basename": "异常",
-      "path": "docs/01-信息技术/01-编程语言/01-Java/异常.md"
-    },
-    {
       "basename": "io流",
       "path": "docs/01-信息技术/01-编程语言/01-Java/io流.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "quotes",
       "path": "quotes.md"
-    },
-    {
-      "basename": "注册claude.ai并开通pro会员",
-      "path": "docs/99-其他/01-工具/注册claude.ai并开通pro会员.md"
     },
     {
       "basename": "_index",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-11-17",
       "path": "01-生活/01-日记/2024-11-17.md"
-    },
-    {
-      "basename": "2025-04-12",
-      "path": "01-生活/01-日记/2025-04-12.md"
     }
   ],
   "omittedPaths": [],

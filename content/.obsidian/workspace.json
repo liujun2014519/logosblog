@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8bab7b97a7c209f",
+        "id": "f4ccba9e2f3b6bff",
         "type": "tabs",
         "children": [
           {
-            "id": "f2e93df0f0c5f336",
+            "id": "7a973de29b29de51",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -225,10 +225,12 @@
   },
   "active": "5abaabb7d8f0df7f",
   "lastOpenFiles": [
+    "docs/99-其他/01-工具/claude.ai pro 六折订阅教程.md",
+    "docs/99-其他/01-工具/注册claude.ai并开通pro会员.md",
+    "docs/01-信息技术/01-编程语言/01-Java/异常.md",
     "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”决定你的上限.md",
-    "docs/03-软技能/_index.md",
     "_index.md",
-    "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”非常重要.md",
+    "docs/03-软技能/_index.md",
     "docs/03-软技能/01-思维方法/_index.md",
     "docs/02-心理学/_index.md",
     "docs/03-软技能/_index.md.tmp.8712.1761635094747",
@@ -247,13 +249,11 @@
     "docs/01-信息技术/01-编程语言/_index.md",
     "docs/01-信息技术/01-编程语言/01-Java/_index.md",
     "quotes.md",
-    "docs/99-其他/01-工具/注册claude.ai并开通pro会员.md",
     "docs/99-其他/01-工具/_index.md",
     "docs/02-心理学/02-人际关系与沟通/_index.md",
     "docs/02-心理学/01-认知心理学/_index.md",
     "docs/01-信息技术/02-架构设计/spring微服务实战.md",
     "docs/01-信息技术/02-架构设计/_index.md",
-    "docs/01-信息技术/01-编程语言/01-Java/异常.md",
     "docs/02-心理学/02-人际关系与沟通/非暴力沟通.md",
     "docs/01-信息技术/_index.md",
     "docs/01-信息技术/01-编程语言",
