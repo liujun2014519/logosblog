@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "430cc47c2629ed22",
+        "id": "8b105fdb6598d5bf",
         "type": "tabs",
         "children": [
           {
-            "id": "cadb38199cc447ac",
+            "id": "071b1001728c7fd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”决定你的上限.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "AI时代，你的“提问能力”决定你的上限"
             }
           }
         ]
@@ -110,12 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”决定你的上限.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "AI时代，你的“提问能力”决定你的上限 的大纲"
             }
           },
           {
@@ -223,11 +228,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5abaabb7d8f0df7f",
+  "active": "071b1001728c7fd5",
   "lastOpenFiles": [
-    "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”决定你的上限.md",
-    "_index.md",
     "docs/03-软技能/_index.md",
+    "_index.md",
+    "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”非常重要.md",
+    "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”决定你的上限.md",
     "docs/03-软技能/01-思维方法/_index.md",
     "docs/02-心理学/_index.md",
     "docs/03-软技能/_index.md.tmp.8712.1761635094747",
