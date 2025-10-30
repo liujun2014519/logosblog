@@ -14,6 +14,9 @@ enableEmoji = true
   
   #右侧目录
   BookToC = true
+  
+  # 日期格式
+  BookDateFormat = '2006-01-02'
 
 
 # Markdown 配置

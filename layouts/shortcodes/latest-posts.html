@@ -1,4 +1,4 @@
-{{ range first 1 (where .Site.RegularPages "Section" "docs") }}
+{{ range first 1 (where .Site.RegularPages "Section" "docs").ByDate.Reverse }}
     {{ $title := .Title }}
     {{ if eq $title "" }} 
         {{ $title = .File.BaseFileName }}
