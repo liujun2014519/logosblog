@@ -1,15 +1,14 @@
-{{ $quotesPage := .Site.GetPage "page" "quotes.md" }}  <!-- 获取 `quotes.md` 页面数据 -->
-{{ if $quotesPage }}
-    {{ $quotes := $quotesPage.Params.quotes }}  <!-- 获取 `quotes.md` 中的 `quotes` 列表 -->
+{{ $quotes := .Site.Data.quotes.quotes }}  <!-- 从 data/quotes.yaml 读取格言列表 -->
 
+{{ if $quotes }}
     {{ if gt (len $quotes) 0 }}  <!-- 确保 `quotes` 不是空列表 -->
         <p id="daily-quote" class="daily-quote">加载中...</p>  <!-- 初始状态，防止加载时出现空白 -->
 
         <script>
-            document.addEventListener("DOMContentLoaded", function () {  
+            document.addEventListener("DOMContentLoaded", function () {
                 var quotes = {{ $quotes | jsonify | safeJS }};  // 将 Hugo 变量转换成 JavaScript 可用的 JSON 格式
 
-                if (Array.isArray(quotes) && quotes.length > 0) {  
+                if (Array.isArray(quotes) && quotes.length > 0) {
                     var index = Math.floor(Math.random() * quotes.length);  // 生成一个 0 到 quotes.length-1 之间的随机索引
                     document.getElementById("daily-quote").innerText = quotes[index];  // 在页面上更新随机格言
                 } else {
@@ -18,36 +17,17 @@
             });
         </script>
     {{ else }}
-        <p class="daily-quote">暂无可用格言，请检查 quotes.md 格式</p>  <!-- `quotes.md` 没有格言时的提示 -->
+        <p class="daily-quote">暂无可用格言，请检查 data/quotes.yaml 格式</p>  <!-- 格言列表为空时的提示 -->
     {{ end }}
 
 {{ else }}
-    <p class="daily-quote">无法加载格言，请检查 quotes.md 位置</p>  <!-- `quotes.md` 未找到时的提示 -->
+    <p class="daily-quote">无法加载格言，请检查 data/quotes.yaml 是否存在</p>  <!-- 文件未找到时的提示 -->
 {{ end }}
 
 
 <style>
-// 简约风格
-//.daily-quote {
-//    font-style: italic;
-//    color: #007acc;
-//    text-align: center;
-//    margin: 20px 0;
-//    font-size: 1.2em;
-//    font-weight: bold;
-//    padding: 10px;
-//    background: #f9f9f9;
-//    border-left: 4px solid #007acc;
-//    border-radius: 5px;
-//    max-width: 600px;
-//    margin: 20px auto;
-//}
-
-
-
-// 高级紫色
 .daily-quote {
-    font-style: italic;
+    font-style: normal;
     color: #5D3FD3;
     text-align: left;
     margin: 20px 0;
