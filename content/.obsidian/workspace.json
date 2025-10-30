@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4ccba9e2f3b6bff",
+        "id": "deca12b477114b95",
         "type": "tabs",
         "children": [
           {
-            "id": "7a973de29b29de51",
+            "id": "5c83af373ee97c76",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -112,7 +112,8 @@
               "state": {
                 "followCursor": false,
                 "showSearch": false,
-                "searchQuery": ""
+                "searchQuery": "",
+                "file": "docs/其他/工具/注册 Claude.ai 并开通 Pro 会员.md"
               },
               "icon": "lucide-list",
               "title": "大纲"
@@ -158,11 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MOC/待办总览.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "待办总览 的出链列表"
             }
           },
           {
@@ -185,7 +187,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5b4138c26a2abcfd",
@@ -211,21 +214,21 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:创建新数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "5abaabb7d8f0df7f",
+  "active": "5c83af373ee97c76",
   "lastOpenFiles": [
-    "docs/99-其他/01-工具/claude.ai pro 六折订阅教程.md",
+    "docs/99-其他/01-工具/低价订阅 claude.ai pro 教程.md",
     "docs/99-其他/01-工具/注册claude.ai并开通pro会员.md",
     "docs/01-信息技术/01-编程语言/01-Java/异常.md",
     "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”决定你的上限.md",

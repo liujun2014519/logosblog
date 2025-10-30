@@ -1,5 +1,5 @@
 ---
-title: Claude.ai Pro 六折订阅教程
+title: 低价订阅 Claude.ai Pro 教程
 description:
 weight: 2
 bookToc: true
@@ -9,7 +9,7 @@ tags:
   - AI
   - 工具
 ---
-# Claude.ai Pro 六折订阅教程
+# 低价订阅 Claude.ai Pro 教程
 
 ## 背景
 
