@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87b0c8b8c8c90bab",
+        "id": "94152d7d44cbf329",
         "type": "tabs",
         "children": [
           {
-            "id": "95175cf30e6729c2",
+            "id": "205606ce6947d81e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/99-其他/01-工具/低价订阅 claude.ai pro 教程.md",
                 "followCursor": false,
                 "showSearch": false,
-                "searchQuery": "",
-                "file": "docs/其他/工具/注册 Claude.ai 并开通 Pro 会员.md"
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "低价订阅 claude.ai pro 教程 的大纲"
             }
           },
           {
@@ -168,27 +168,16 @@
             }
           },
           {
-            "id": "fc8df7b1d1c031e5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
             "id": "cfc02569d216b997",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5b4138c26a2abcfd",
@@ -213,26 +202,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "5abaabb7d8f0df7f",
   "lastOpenFiles": [
     "docs/99-其他/01-工具/低价订阅 claude.ai pro 教程.md",
+    "docs/99-其他/01-工具",
+    "docs/01-信息技术/_index.md",
+    "_index.md",
     "docs/99-其他/01-工具/注册claude.ai并开通pro会员.md",
     "docs/01-信息技术/01-编程语言/01-Java/异常.md",
     "docs/03-软技能/01-思维方法/AI时代，你的“提问能力”决定你的上限.md",
-    "_index.md",
     "docs/03-软技能/_index.md",
     "docs/03-软技能/01-思维方法/_index.md",
     "docs/02-心理学/_index.md",
@@ -258,12 +249,9 @@
     "docs/01-信息技术/02-架构设计/spring微服务实战.md",
     "docs/01-信息技术/02-架构设计/_index.md",
     "docs/02-心理学/02-人际关系与沟通/非暴力沟通.md",
-    "docs/01-信息技术/_index.md",
     "docs/01-信息技术/01-编程语言",
     "00-MOC/01-待办事项/待办总览.md",
     "01-生活/01-日记/2025-08-04.md",
-    "03-工作/02-管理/团队待办总览.md",
-    "未命名.base",
     "04-资源库/03-白板/北极星.canvas",
     "04-资源库/00-附件/微信图片_20250407143647.png",
     "04-资源库/00-附件/微信图片_20250407143642.png",
