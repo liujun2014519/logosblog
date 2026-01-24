@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <article class="markdown book-article">
+    <h1>{{ .Title }}</h1>
+    {{ partial "docs/doc-meta" . }}
+    {{- .Content -}}
+  </article>
+{{ end }}
