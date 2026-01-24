@@ -1,0 +1,21 @@
+<div class="flex align-center text-small book-post-date" style="margin-bottom: 2rem; color: #666; gap: 1.5rem; flex-wrap: wrap;">
+  {{ with .Params.date_created }}
+    <div class="flex align-center">
+      <span>创建于 {{ . | time.Format "2006年01月02日" }}</span>
+    </div>
+  {{ end }}
+
+  {{ with .Params.date_modified }}
+    <div class="flex align-center">
+      <span>更新于 {{ . | time.Format "2006年01月02日" }}</span>
+    </div>
+  {{ end }}
+
+  <div class="flex align-center">
+    <span>共 {{ .WordCount }} 字</span>
+  </div>
+
+  <div class="flex align-center">
+    <span>阅读约 {{ .ReadingTime }} 分钟</span>
+  </div>
+</div>

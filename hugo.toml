@@ -6,6 +6,9 @@ theme = 'hugo-book'
 # 启用 Emoji
 enableEmoji = true
 
+# 启用 CJK (中日韩) 语言支持，用于准确统计字数
+hasCJKLanguage = true
+
 
 # Hugo-Book 主题配置
 [params]
