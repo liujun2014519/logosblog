@@ -8,7 +8,7 @@ draft: false
 tags:
 date_created: 2026-01-25 12:50:32
 date_modified: 2026-01-26 20:35:22
-images: https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/illustration-second-brain-cover.png
+images: [https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/illustration-second-brain-cover.png]
 ---
 ## Obsidian 是啥？
 
