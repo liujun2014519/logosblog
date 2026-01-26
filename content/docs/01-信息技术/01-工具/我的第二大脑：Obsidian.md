@@ -1,5 +1,5 @@
 ---
-title: 我的第二大脑：Obsidian 使用心得
+title: 我的第二大脑：Obsidian
 description:
 weight: 1
 bookToc: true
@@ -7,8 +7,8 @@ date: 2026-01-26T18:00:00+08:00
 draft: false
 tags:
 date_created: 2026-01-25 12:50:32
-date_modified: 2026-01-26 20:35:22
-images: [https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/illustration-second-brain-cover.png]
+date_modified: 2026-01-26 22:04:08
+cover: https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/illustration-second-brain-cover.png
 ---
 ## Obsidian 是啥？
 
