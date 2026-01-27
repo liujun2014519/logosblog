@@ -7,7 +7,7 @@ date: 2026-01-26T18:00:00+08:00
 draft: false
 tags:
 date_created: 2026-01-25 12:50:32
-date_modified: 2026-01-26 22:04:08
+date_modified: 2026-01-27 18:15:38
 cover: https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/illustration-second-brain-cover.png
 ---
 ## Obsidian 是啥？
@@ -49,14 +49,14 @@ cover: https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/illustration-se
 
 每天睡前，我会静下来写当天的感悟。我在日记模板里塞了一段脚本：每天打开日记，它会自动抓取去年、前年甚至更久以前的「今日感悟」嵌入进来。
 
-这种感觉特别奇妙，写着写着，过去的自己突然跳出来跟你「对话」。
+这种感觉特别奇妙，写着日记，看着过去自己留下的「痕迹」。
 
 ![日记时关机](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/20260126153136.png)
 
 
 ### 4. 电子图书馆：把书房搬进电脑
 
-想读的书，用 `Douban` 插件一搜就能把信息抓过来，秒级建档。我给自己搞了个可视化书单，每一本的阅读状态、笔记、读后感都整整齐齐。看着电子书架一点点积累，这种富足感谁用谁知道。
+想读的书，用 `Douban` 插件一搜就能把信息抓过来，秒级建档。我给自己搞了个可视化书单，每一本的阅读状态、笔记、读后感都整整齐齐。
 
 ![电子图书馆](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/20260126153155.png)
 
