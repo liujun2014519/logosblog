@@ -6,6 +6,7 @@ tags:
   - 软技能
   - AI
   - 批判性思维
+featured: true
 date_created: 2026-01-27 21:35:27
 date_modified: 2026-01-28 21:19:50
 ---
