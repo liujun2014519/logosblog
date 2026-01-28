@@ -6,6 +6,8 @@ bookToc: true
 date: 2026-01-26T18:00:00+08:00
 draft: false
 tags:
+  - 工具
+  - 信息技术
 date_created: 2026-01-25 12:50:32
 date_modified: 2026-01-27 20:27:40
 cover: https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/illustration-second-brain-cover.png
