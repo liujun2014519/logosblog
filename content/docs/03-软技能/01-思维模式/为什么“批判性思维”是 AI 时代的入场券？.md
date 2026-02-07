@@ -9,6 +9,7 @@ tags:
 date_created: 2026-01-27 21:35:27
 date_modified: 2026-01-28 21:19:50
 ---
+![Generated Image January 27, 2026 - 11_10PM.jpeg](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/Generated%20Image%20January%2027%2C%202026%20-%2011_10PM.jpeg)
 ## 为什么“提问能力”突然变得这么值钱？
 
 你有没有觉得，有时候 AI 笨得像个复读机，有时候又聪明得让人害怕？其实，它是一面镜子，照出的是你提问的水平。
