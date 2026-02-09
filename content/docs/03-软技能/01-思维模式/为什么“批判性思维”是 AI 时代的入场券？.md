@@ -9,7 +9,7 @@ tags:
 date_created: 2026-01-27 21:35:27
 date_modified: 2026-01-28 21:19:50
 ---
-![Generated Image January 27, 2026 - 11_10PM.jpeg](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/Generated%20Image%20January%2027%2C%202026%20-%2011_10PM.jpeg)
+![](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/Generated%20Image%20January%2027%2C%202026%20-%2011_10PM.jpeg)
 ## 为什么“提问能力”突然变得这么值钱？
 
 你有没有觉得，有时候 AI 笨得像个复读机，有时候又聪明得让人害怕？其实，它是一面镜子，照出的是你提问的水平。
@@ -30,7 +30,7 @@ date_modified: 2026-01-28 21:19:50
 想象一下，你是个淘金者。互联网和 AI 给你的一大堆信息，大部分是**沙子（观点）**，只有少部分是**金子（事实）**。批判性思维，就是你手里的那个**筛子**。
 
 
-![批判性思维的本质：沙子与金子](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/Generated%20Image%20January%2027%2C%202026%20-%2010_52PM.webp)
+![](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/Generated%20Image%20January%2027%2C%202026%20-%2010_52PM.webp)
 
 举个例子：
 > **事实（金子）**：“今天纳斯达克涨了 2.3%。”
@@ -59,7 +59,7 @@ date_modified: 2026-01-28 21:19:50
 3.  **知其然不知其所以然**：它能写出斐波那契数列的代码，但它可能根本不懂什么是“递归”的数学美感，它只是在模仿。
 
 所以，**别把方向盘交给它**。你是司机，它是副驾驶。你得告诉它去哪，还得时刻盯着它别指错路。
-![AI 是你的副驾驶](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/Generated%20Image%20January%2027%2C%202026%20-%2010_50PM.webp)
+![](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/Generated%20Image%20January%2027%2C%202026%20-%2010_50PM.webp)
 ## 怎么提问，AI 才会听懂？
 
 很多人觉得 AI 笨，其实是因为自己没问对。
@@ -69,7 +69,7 @@ date_modified: 2026-01-28 21:19:50
 ### 1. 三明治提问法
 
 别直接扔一个干巴巴的问题。试着做一个“提问三明治”：
-![三明治提问法结构图](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/Generated%20Image%20January%2027%2C%202026%20-%2010_58PM.jpeg)
+![](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/Generated%20Image%20January%2027%2C%202026%20-%2010_58PM.jpeg)
 
 *   **上层面包（背景 Context）**：我是谁？我现在啥情况？
 *   **中间的肉（核心问题 Question）**：我要解决什么具体问题？
@@ -114,6 +114,6 @@ AI 时代，**答案本身贬值了，但“寻找好答案的能力”升值了
 记住这个公式：
 **高质量对话 = 解构需求 + 定义边界 + 循环验证**
 
-![高质量对话闭环](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/Generated%20Image%20January%2027%2C%202026%20-%2010_54PM.jpeg)
+![](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/Generated%20Image%20January%2027%2C%202026%20-%2010_54PM.jpeg)
 
 当你可以熟练地用批判性思维去“调教”AI 时，它就不再是你的人工智障，而是你最强大的外脑。

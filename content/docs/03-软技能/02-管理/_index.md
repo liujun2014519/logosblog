@@ -1,5 +1,5 @@
 ---
-title: 思维模式
-weight: 2
+title: 管理
+weight: 1
 bookCollapseSection: true
 ---

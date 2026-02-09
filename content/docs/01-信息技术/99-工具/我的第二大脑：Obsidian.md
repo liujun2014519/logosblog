@@ -12,7 +12,8 @@ date_created: 2026-01-25 12:50:32
 date_modified: 2026-01-27 20:27:40
 cover: https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/illustration-second-brain-cover.png
 ---
-![我的第二大脑：Obsidian 使用心得](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/illustration-second-brain-cover.png)
+![](https://stellar-img.oss-cn-shenzhen.aliyuncs.com/obsidian/illustration-second-brain.png)
+
 ## Obsidian 是啥？
 
 简单来说，Obsidian 就是个跑在电脑上的 「Markdown 文本编辑工具」。
