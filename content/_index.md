@@ -31,4 +31,4 @@ type: docs
 ---
 
 ## 联系方式
-**Email**: [contact@logosblog.com](mailto:contact@logosblog.com)
+**Email**: [liujun2014519@gmail.com](mailto:liujun2014519@gmail.com)
